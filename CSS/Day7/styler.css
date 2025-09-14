@@ -1,0 +1,10 @@
+*{
+    font-style: oblique;
+    font-weight: 5000;
+    margin: 5px;
+}
+span{
+    color: orange;
+    font-family: sans-serif;
+    font-style: oblique;
+}
